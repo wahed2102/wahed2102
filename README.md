@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Wahed's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahed2102&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahed2102&layout=compact)
+
 <!--
 **wahed2102/wahed2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
