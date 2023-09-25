@@ -4,9 +4,9 @@
  <p>I'm a Full Stack Web Developer from Nagpur, India. I enjoy creating things that live on the internet. My goal is to always build products that provide pixel-perfect, performant experiences. After joining Masai School I worked on a wide variety of assignments and projects on a daily basis.</p>
  <h4> 💬 Ask me about anything, anytime 😄 </h4>
  
-[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)]([www.linkedin.com/in/syedshamsher](https://www.linkedin.com/in/wahedali0221))
+[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://www.linkedin.com/in/wahedali0221)
 [![](https://img.icons8.com/material-two-tone/32/000000/gmail.png)](mailto:wahed.khan@rediffmail.com)
-[![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://shamsher.vercel.app/)
+[![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://wahed2102.github.io/)
 
 </span>
  
